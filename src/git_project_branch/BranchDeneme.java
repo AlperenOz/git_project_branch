@@ -6,6 +6,10 @@ public class BranchDeneme {
 		System.out.println("16:28 -master branch ten ilk commit");
 
 		System.out.println("18:36 -feature branch ten ilk commit");
+		
+		System.out.println("this is written in github");
+		
+		
 	}
 
 }
