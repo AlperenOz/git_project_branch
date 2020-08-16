@@ -9,6 +9,7 @@ public class BranchDeneme {
 		
 		System.out.println("this is written in github");
 		
+		System.out.println("this is also written in github");
 		
 	}
 
